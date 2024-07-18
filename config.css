@@ -1,0 +1,48 @@
+/**
+ * Note: This is the config style, it is used to configure the whole page.
+ */
+
+:root {
+    /* 🎨 Note: This is a color palette computed by colorful-192x108-16bit-v15palette algorithm */
+
+    /* Note: --palette-0 is 3rd most frequent color of the bottom half of the wallpaper that is dark enough to place light text in and similar enough (10%) to the average color of the bottom third of the wallpaper. */
+    --palette-0: #775533;
+    --palette-0-triplet: 119, 85, 51;
+    /* Note: --palette-1 is The lightest color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-1: #ffffff;
+    --palette-1-triplet: 255, 255, 255;
+    /* Note: --palette-2 is 1st most satulighted color of the bottom half of the wallpaper which is distant enough (10%) and hue-distant enough (30°) from all other palette colors. */
+    --palette-2: #000088;
+    --palette-2-triplet: 0, 0, 136;
+    /* Note: --palette-3 is The lightest color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-3: #ffffff;
+    --palette-3-triplet: 255, 255, 255;
+    /* Note: --palette-4 is 3rd most frequent color of the bottom half of the wallpaper that is dark enough to place light text in and similar enough (10%) to the average color of the bottom third of the wallpaper. */
+    --palette-4: #775533;
+    --palette-4-triplet: 119, 85, 51;
+    /* Note: --palette-5 is The lightest color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-5: #ffffff;
+    --palette-5-triplet: 255, 255, 255;
+    /* Note: --palette-6 is 1st most satulighted color of the bottom half of the wallpaper which is distant enough (10%) and hue-distant enough (30°) from all other palette colors. */
+    --palette-6: #000088;
+    --palette-6-triplet: 0, 0, 136;
+    /* Note: --palette-7 is The lightest color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-7: #ffffff;
+    --palette-7-triplet: 255, 255, 255;
+    /* Note: --palette-8 is 3rd most frequent color of the bottom half of the wallpaper that is dark enough to place light text in and similar enough (10%) to the average color of the bottom third of the wallpaper. */
+    --palette-8: #775533;
+    --palette-8-triplet: 119, 85, 51;
+    /* Note: --palette-9 is The lightest color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-9: #ffffff;
+    --palette-9-triplet: 255, 255, 255;
+    /* Note: --palette-10 is 1st most satulighted color of the bottom half of the wallpaper which is distant enough (10%) and hue-distant enough (30°) from all other palette colors. */
+    --palette-10: #000088;
+    --palette-10-triplet: 0, 0, 136;
+    /* Note: --palette-11 is The lightest color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-11: #ffffff;
+    --palette-11-triplet: 255, 255, 255;
+}
+
+:root {
+    --vscode-sash-size: 4px;
+}
